@@ -1,0 +1,15 @@
+syntax = "proto3";
+package ptcodelabs.xovr.identity;
+
+// AI Agent Sovereign Identity Definition
+message AgentIdentity {
+  string agent_id = 1;          // Unique ID ภายในระบบ
+  string on_chain_address = 2;  // ที่อยู่กระเป๋าบน Blockchain (เช่น TON/ETH)
+  bytes public_key = 3;         // สำหรับการยืนยันการลงนามธุรกรรม
+  string sovereign_role = 4;    // บทบาทของ Agent ในระบบนิเวศ
+}
+
+message IdentityProof {
+  string signature = 1;         // การยืนยันตัวตนผ่านการลงนามเข้ารหัส
+  uint64 timestamp = 2;         // ป้องกันการทำซ้ำ (Replay Attack)
+}
