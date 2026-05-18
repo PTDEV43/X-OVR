@@ -1,55 +1,57 @@
 <div align="center">
 
-# 🌑 PTCODELABS : X-OVR CORE
-### **Autonomous Sovereign Architecture**
-*Precision. Autonomy. Intelligence.*
+# ⬛ X-OVR CORE
+**[ PTCODELABS : SOVEREIGN INFRASTRUCTURE ]**
 
-[![Version](https://img.shields.io/badge/VERSION-1.0.0-blue?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/PTCODELABS)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/PTCODELABS)
-[![Security](https://img.shields.io/badge/SECURITY-ZERO--TRUST-red?style=for-the-badge&logo=dependabot&logoColor=white)](https://github.com/PTCODELABS)
+`A2A PROTOCOL` | `NEURAL SWARM` | `ZERO-TRUST`
+
+[![Status](https://img.shields.io/badge/SYS-ACTIVE-00FF00?style=for-the-badge&color=000000&labelColor=111111)]()
+[![Security](https://img.shields.io/badge/SEC-HARDWARE_LOCKED-FF0000?style=for-the-badge&color=000000&labelColor=111111)]()
+[![Build](https://img.shields.io/badge/BUILD-FLAT_STRUCTURE-FFFFFF?style=for-the-badge&color=000000&labelColor=111111)]()
 
 </div>
 
 ---
 
-## ⚡ SYSTEM OVERVIEW
-**X-OVR CORE** คือชุดโครงสร้างพื้นฐานอัจฉริยะขั้นสูงที่พัฒนาโดย **PTCODELABS** ออกแบบมาเพื่อเป็นแกนกลางสำหรับสถาปัตยกรรมในยุค **Agentic AI** มุ่งเน้นไปที่ความแม่นยำสูงสุดในการประมวลผล และการควบคุมระบบที่เบ็ดเสร็จเด็ดขาด (Sovereign Control) ภายใต้มาตรฐานความปลอดภัยระดับ Zero-Trust
+> **WARNING:** THIS IS A SOVEREIGN SYSTEM ENVIRONMENT.
+> UNAUTHORIZED ACCESS ATTEMPTS WILL BE LOGGED AND TERMINATED.
+
+## // SYSTEM.OVERVIEW
+**X-OVR CORE** คือเลเยอร์การประมวลผลขั้นสูงแบบ Flat Structure ที่ถูกวิศวกรรมขึ้นใหม่ทั้งหมดโดย **PTCODELABS** ออกแบบมาเพื่อเป็นกระดูกสันหลังของยุค Agentic AI ขับเคลื่อนด้วยตรรกะแบบกระจายศูนย์ และถูกล็อกด้วยมาตรการรักษาความปลอดภัยระดับฮาร์ดแวร์ที่ไม่มีการผ่อนปรน
+
+## // CORE.CAPABILITIES
+* **[ 100-UNIT NEURAL SWARM ]** : สถาปัตยกรรมซิงโครไนซ์ Agent 100 หน่วยให้ทำงานและตัดสินใจร่วมกันแบบ Swarm Logic
+* **[ A2A / MCP BINDING ]** : รันการสื่อสารผ่าน Agent-to-Agent (A2A) Protocol และ Model Context Protocol (MCP) เต็มรูปแบบ
+* **[ TIMELINE ROLLBACK ]** : Checkpoint อัจฉริยะ บันทึก State การทำงานและพร้อมทำ Immutable Rollback ทันทีที่ระบบตรวจพบความผิดปกติ
+* **[ HARDWARE-LOCKED ENCLAVE ]** : ระบบ Zero-Trust เต็มขั้น บังคับการลงนาม (Code Signing) และยืนยันตัวตนผ่าน Physical Security Key ทุกครั้ง
 
 ---
 
-## 🛠️ CORE CAPABILITIES
+## // FLAT.ARCHITECTURE
+`CORE ENVIRONMENT: OPTIMIZED FLAT STRUCTURE`
 
-*   **🧠 Advanced Context Steering:** ระบบควบคุมและชี้นำบริบทการทำงานของ AI ระดับลึก เพื่อผลลัพธ์ที่แม่นยำและไม่หลุดกรอบเป้าหมาย
-*   **⏪ Timeline Rollback:** ระบบ Snapshot อัจฉริยะที่บันทึกสถานะทุกขั้นตอน ช่วยให้สามารถย้อนกลับ (Rollback) หรือกู้คืนการทำงานได้ทันทีเมื่อเกิดข้อผิดพลาด
-*   **🐝 Neural Swarm Logic:** สถาปัตยกรรมการประมวลผลแบบกระจายศูนย์ เปิดทางให้ AI หลายหน่วยสามารถทำงานร่วมกันแบบ Swarm เพื่อแก้ปัญหาที่ซับซ้อน
-*   **🛡️ Encapsulated Security:** กระบวนการทั้งหมดถูกห่อหุ้มด้วยเลเยอร์ความปลอดภัยขั้นสูง ป้องกันการแทรกแซงจากภายนอกในทุกการเชื่อมต่อ
-
----
-
-## 📂 ARCHITECTURE & DIRECTORY
-
-โครงสร้างระบบถูกออกแบบมาเพื่อความโปร่งใสและประสิทธิภาพสูงสุดในการทำงาน
-
-| Directory | Description | Purpose |
+| MODULE | DESIGNATION | STATUS |
 | :--- | :--- | :--- |
-| `core/agents/` | Autonomous decision-making logic | ระบบตรรกะและการตัดสินใจหลักของ Agent |
-| `core/protocols/` | Sovereign communication standards | มาตรฐานการสื่อสารภายในที่มีความปลอดภัยสูงสุด |
-| `core/security/` | Zero-trust encryption & signing | ระบบเข้ารหัสและลงนามยืนยันระดับฮาร์ดแวร์ |
-| `modules/mcp/` | Model Context Protocol integrations | โมดูลเชื่อมต่อและจัดการบริบทของโมเดล AI |
-| `logs/checkpoints/`| Immutable execution history & rollbacks | พื้นที่เก็บประวัติการทำงานแบบแก้ไขไม่ได้และจุดย้อนกลับ |
-| `tests/logic/` | Property-based integrity validation | ชุดทดสอบความสมบูรณ์และตรรกะการประมวลผลของระบบ |
+| `agents/` | Swarm logic & autonomous execution pathways | `ACTIVE` |
+| `protocols/` | A2A and MCP sovereign communication standards | `ACTIVE` |
+| `sec_vault/` | Hardware-backed encryption & Zero-trust keys | `LOCKED` |
+| `logs/` | Immutable state history & rollback checkpoints | `WRITE-ONLY` |
+| `tests/` | Property-based integrity and logic validation | `STANDBY` |
 
 ---
 
-## 🚀 QUICK START
-*(For Authorized Sovereign Nodes Only)*
+## // DEPLOYMENT.PROTOCOL
+**CRITICAL REQUIREMENT:** สภาพแวดล้อมการพัฒนาและ Deploy ทั้งหมดถูกจำกัดสิทธิ์ไว้ที่ Drive `C:\` เท่านั้น ห้ามกำหนดพาธไปยังไดรฟ์อื่นโดยเด็ดขาด
 
-```bash
-# 1. Clone the core repository
+```powershell
+# 01. INITIALIZE REPOSITORY (STRICTLY ON C:\)
+cd C:\
 git clone [https://github.com/PTCODELABS/x-ovr-core.git](https://github.com/PTCODELABS/x-ovr-core.git)
+cd C:\x-ovr-core
 
-# 2. Navigate to the sovereign directory
-cd x-ovr-core
+# 02. VERIFY HARDWARE SECURITY
+# [!] YubiKey 5 (or authorized hardware key) MUST be inserted for vault decryption
+.\sec_vault\verify_hardware_identity.ps1 -RequireKey
 
-# 3. Initialize secure environment
-./scripts/init_sovereign_node.sh
+# 03. IGNITE THE SWARM
+.\system_boot.ps1 --mode sovereign --units 100
